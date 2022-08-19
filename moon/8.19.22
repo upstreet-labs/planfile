@@ -1,0 +1,12 @@
+first planfile - testing commit
+
+pushed eslint to webaverse app on upstreet labs
+next will push through all lint fixes to linter passes for entire repo
+then set up jsconfig, relative imports and some basic package structure
+probably last time we'll ever get to do this before big team
+
+working on texture atlasing and baking for meshes in THREE
+learning for self, cleaning up some old code, making into npm package meshbaker
+avaer has a similar mesh baker thing but this is useful for the standalone apps and as a rest service
+
+probably work on this all weekend
