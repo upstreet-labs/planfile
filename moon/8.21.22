@@ -1,0 +1,11 @@
+Didn't add plan file yesterday
+
+Worked on linting
+Ironically, linting fixed some bug hiding, which showed another bug -- we were calling startApp twice. This got the lint reverted. Cry. Much wasted time, but ultimately I should have tested better.
+Worked on figma design yesterday for M3 x Webaverse mesh baker tool, as well as AI writer.
+
+Found some useful AI stuff we can implement: https://github.com/j-min/CLIP-Caption-Reward
+
+We can get a lot of semantic info from the world (and use the world as a way to capture good data for our own fine-tuned models) but we want to try to keep the agent pipeline as agnostic of which reality it's in s possible.
+
+okay, sunday, finish atlas baker.
